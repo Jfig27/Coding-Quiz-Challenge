@@ -16,5 +16,5 @@
     https://jfig27.github.io/Coding-Quiz-Challenge/index.html
 
 ## Screenshots: 
-![Screenshot of question](Assets\images\quiz_question.png)
-![Screenshot of finished quiz](Assets\images\quiz_finish.png)
+![Screenshot of question](./Assets/images/quiz_question.png)
+![Screenshot of finished quiz](./Assets/images/quiz_finish.png)
